@@ -1,0 +1,47 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color:mediumpurple;
+    color : white;
+    font-family: "Poppins",sans-serif;
+    min-height: 100vh;
+}
+
+header{
+    font-size: 1.5px;
+}
+
+header{
+    min-height: 20vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    min-height: 20vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+form input {
+    padding: 0;
+    padding-left: 1px;
+    font-size: 1.8px;
+    border:none;
+    background: white;
+    border: radius 2px;
+}
+form button {
+    padding: 0;
+    padding-left: 1px;
+    font-size: 1.8px;
+    border:none;
+    background: white;
+    border: radius 2px;
+}
